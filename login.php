@@ -1,6 +1,4 @@
-<?php
-    session_start();
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,7 +29,7 @@
 		<div class="form-group">
             <button type="submit" name="save" class="btn btn-success btn-lg btn-block">Login</button>
         </div>
-        <div class="text-center">Don't have an account? <a href="register.php">Register Here</a></div>
+        <div class="text-center">Don't have an account? <a href="register.html">Register Here</a></div>
     </form>
 </div>
 </body>
